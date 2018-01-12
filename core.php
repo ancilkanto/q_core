@@ -14,5 +14,5 @@ Version: 1.0
 
 
 
-require_once dirname(__FILE__). '/truck_listing/truck_listing.php';
+require_once 'truck_listing/truck_listing.php';
 
