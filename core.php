@@ -15,4 +15,4 @@ Version: 1.0
 
 
 require_once 'truck_listing/truck_listing.php';
-
+require_once 'truckindia_shortcodes/shortcodes.php';

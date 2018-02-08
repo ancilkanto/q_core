@@ -1,0 +1,120 @@
+.sc-icon{
+	background-position: center center !important;
+    background-size: 50px auto !important;
+    background-repeat: no-repeat !important;
+}
+.sc-icon-text-block{
+	background-image: url('../icons/box.png') !important;
+}
+
+.sc-icon-nav{
+	background-image: url('../icons/nav.png') !important;
+}
+
+.sc-icon-showcase{
+	background-image: url('../icons/showcase.png') !important;
+}
+
+.sc-icon-heading{
+	background-image: url('../icons/page_heading.png') !important;
+}
+.sc-icon-artist-heading{
+	background-image: url('../icons/paint-brush.png') !important;
+}
+
+.sc-icon-features{
+	background-image: url('../icons/features.png') !important;
+}
+
+.sc-icon-count{
+	background-image: url('../icons/count.png') !important;
+}
+.sc-icon-page-title{
+	background-image: url('../icons/letters1.png') !important;
+}
+.sc-icon-text{
+	background-image: url('../icons/box.png') !important;
+}
+.sc-icon-skill{
+	background-image: url('../icons/skill.png') !important;
+}
+.sc-icon-team{
+	background-image: url('../icons/team.png') !important;
+}
+.sc-icon-staff{
+	background-image: url('../icons/staff.png') !important;
+}
+
+.sc-icon-testimonial{
+	background-image: url('../icons/testimonial.png') !important;
+}
+.sc-icon-services{
+	background-image: url('../icons/services.png') !important;
+}
+.sc-icon-carousel{
+	background-image: url('../icons/carousel.png') !important;
+}
+
+.sc-icon-carousel-item{
+	background-image: url('../icons/carousel_item.png') !important;
+}
+.sc-icon-portfolio{
+	background-image: url('../icons/portfolio.png') !important;
+}
+.sc-icon-one-page{
+	background-image: url('../icons/move.png') !important;
+}
+.sc-icon-text-ticker{
+	background-image: url('../icons/text-ticker.png') !important;
+}
+.sc-icon-button{
+	background-image: url('../icons/button.png') !important;
+}
+.sc-icon-blog{
+	background-image: url('../icons/blog_post_icon.png') !important;
+}
+.sc-icon-social{
+	background-image: url('../icons/social_icons.png') !important;
+}
+
+.sc-icon-groupabc{
+	background-image: url('../icons/group.png') !important;
+}
+
+.sc-icon-boxed-heading{
+	background-image: url('../icons/boxed-section-heading.png') !important;
+}
+.sc-icon-page-heading{
+	background-image: url('../icons/banner.png') !important;
+}
+
+.sc-icon-callback {
+	background-image: url('../icons/call-back.png') !important;
+}
+.sc-icon-title {
+	background-image: url('../icons/title.png') !important;
+}
+.sc-icon-news {
+	background-image: url('../icons/news.png') !important;
+}
+.sc-icon-listing {
+	background-image: url('../icons/listing.png') !important;
+}
+.sc-icon-insurance {
+	background-image: url('../icons/insurance.png') !important;
+}
+.sc-icon-slider {
+	background-image: url('../icons/slider.png') !important;
+}
+.sc-icon-blog {
+	background-image: url('../icons/blog.png') !important;
+}
+.sc-icon-carousel-icon {
+	background-image: url('../icons/carousel-icon.png') !important;
+}
+.sc-icon-name-listing {
+	background-image: url('../icons/name-listing.png') !important;
+}
+.sc-icon-iconised-title {
+	background-image: url('../icons/title-icon.png') !important;
+}
