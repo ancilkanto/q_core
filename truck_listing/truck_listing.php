@@ -60,7 +60,7 @@ function truck_type_tax_metabox() {
 
 	$cmb_truck_type->add_field( array(
 	    'name'    => esc_html__( 'Icon Image', 'qcore' ),
-		'desc'    => esc_html__( 'Select image from media library/Upload new image. Use image of width 72px for better appearance in larger displays.', 'qcore' ),
+		'desc'    => esc_html__( 'Select image from media library/Upload new image. Use image of width 72px for better appearance.', 'qcore' ),
 		'id'      => $prefix . 'thumb',
 		'type'    => 'file',
 		'allow'   => array( 'attachment' ),
@@ -99,7 +99,7 @@ function truck_listings_metabox() {
 
 	$cmb_truck_list->add_field( array(
 	    'name'    => esc_html__( 'Thumbnail Image', 'qcore' ),
-		'desc'    => esc_html__( 'Select image from media library/Upload new image. Use image of width 72px for better appearance in larger displays.', 'qcore' ),
+		'desc'    => esc_html__( 'Select image from media library/Upload new image. Use image of width 90px and height 50px for better appearance.', 'qcore' ),
 		'id'      => $prefix . 'thumb',
 		'type'    => 'file',
 		'allow'   => array( 'attachment' ),
