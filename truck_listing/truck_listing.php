@@ -172,11 +172,9 @@ class latest_trucks_widget extends WP_Widget {
 	    	while ( $latest_trucks_loop->have_posts() ) : 
 	    		$latest_trucks_loop->the_post();
 
-	    		$thumb_image_url = '';
+	    		$thumb_image_url = get_post_meta(get_the_ID(), '_truck_list_thumb', true);
 
-		        if ( function_exists("has_post_thumbnail") && has_post_thumbnail() ) {
-		          $thumb_image_url = get_the_post_thumbnail_url(get_the_ID(),'thumbnail');
-		        }
+		        
 
 		        $title = get_the_title();
 
